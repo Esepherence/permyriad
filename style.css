@@ -36,7 +36,7 @@ ul.menu {
   flex-direction: row;
   list-style-type: none;
   align-self: stretch;
-  justify-content: space-around;
+  justify-content: space-evenly;
   gap: 2em;
   padding: 0;
   border-top: 2px solid #909090;
