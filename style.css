@@ -17,18 +17,28 @@ img {
   margin: 0;
 }
 
-h1 {
+h1.title {
+  margin: 0 0 2rem 0;
+  font-family: Futura, Helvetica, sans-serif;
+  font-weight:200;
+  font-size: 4rem;
+  font-stretch:ultra-condensed;
+  text-align: right;
+  line-height: 0;
+}
+
+h1.heading {
   margin: 0;
   font-family: Futura, Helvetica, sans-serif;
   font-weight: normal;
 }
 
-h2{
+h2 {
   margin: 0;
   font-family: Futura, Helvetica, sans-serif;
   font-weight: lighter;
   font-size: medium;
-  text-align:center;
+  text-align:right;
 }
 
 ul.menu {
@@ -101,4 +111,8 @@ section.text {
   font-weight: lighter;
   line-height: 1.25;
   margin: 0 0 1em 0
+}
+
+div.title {
+  padding-bottom: 0rem;
 }
