@@ -10,7 +10,7 @@ body {
   justify-content: space-between;
   margin: 0 auto;
   max-width: 50em;
-  padding: 2em 0;
+  padding: 2rem 1rem;
 }
 
 img {
