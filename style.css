@@ -19,7 +19,7 @@ img {
 
 h1.title {
   margin: 0 0 1.5rem 0;
-  font-family: Futura, Helvetica, sans-serif;
+  font-family: Futura, Trebuchet MS, sans-serif;
   font-weight:200;
   font-size: 3rem;
   font-stretch:ultra-condensed;
@@ -29,13 +29,13 @@ h1.title {
 
 h1.heading {
   margin: 0;
-  font-family: Futura, Helvetica, sans-serif;
+  font-family: Futura, Trebuchet MS, sans-serif;
   font-weight: normal;
 }
 
 h2 {
   margin: 0;
-  font-family: Futura, Helvetica, sans-serif;
+  font-family: Futura, Trebuchet MS, sans-serif;
   font-weight: lighter;
   font-size: medium;
   text-align:right;
@@ -72,7 +72,7 @@ ul.text {
 li.menu {
   padding-top: 2em;
   font-size: large;
-  font-family: Futura, Helvetica, sans-serif;
+  font-family: Futura, Trebuchet MS, sans-serif;
   font-variant-caps: all-small-caps;
 }
 
@@ -81,7 +81,7 @@ li.text {
   padding-block: 0.5em;
   font-size: medium;
   font-weight: lighter;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Trebuchet MS, Arial, sans-serif;
 }
 
 a.menu:link {
@@ -106,7 +106,7 @@ section {
 }
 
 section.text {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Trebuchet MS, Arial, sans-serif;
   font-size: larger;
   font-weight: lighter;
   line-height: 1.25;
@@ -114,5 +114,5 @@ section.text {
 }
 
 div.title {
-  padding-bottom: 0rem;
+  padding: 30% 0 0 0;
 }
