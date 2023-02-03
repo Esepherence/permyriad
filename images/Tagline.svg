@@ -4,11 +4,34 @@
 <svg
    version="1.1"
    id="svg259"
-   width="928.70099"
-   height="515.52002"
-   viewBox="0 0 928.70098 515.52006"
+   width="820.48022"
+   height="400.20789"
+   viewBox="0 0 820.48022 400.20792"
+   sodipodi:docname="Tagline.svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview732"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.45779018"
+     inkscape:cx="270.86645"
+     inkscape:cy="207.51865"
+     inkscape:window-width="1295"
+     inkscape:window-height="456"
+     inkscape:window-x="175"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg259" />
   <defs
      id="defs263">
     <rect
@@ -27,7 +50,7 @@
   </defs>
   <g
      id="g267"
-     transform="matrix(1.3333333,0,0,-1.3333333,0,486.08)">
+     transform="matrix(1.3333333,0,0,-1.3333333,-57.599332,435.51986)">
     <g
        id="g269">
       <g
@@ -174,8 +197,8 @@
        style="font-size:64px;font-family:Helvetica;-inkscape-font-specification:Helvetica;white-space:pre;shape-inside:url(#rect448);fill:#163b4e;fill-opacity:1;stroke-width:1.333;stroke-linejoin:bevel"><tspan
          x="401.91602"
          y="448.64123"
-         id="tspan5046"><tspan
+         id="tspan898"><tspan
            style="font-family:Futura;-inkscape-font-specification:Futura"
-           id="tspan5044">consulting science</tspan></tspan></text>
+           id="tspan896">consulting science</tspan></tspan></text>
   </g>
 </svg>
