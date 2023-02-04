@@ -31,6 +31,7 @@ h1.heading {
   margin: 0;
   font-family: Futura, Trebuchet MS, sans-serif;
   font-weight: normal;
+  color: #163b4e;
 }
 
 h2 {
@@ -86,12 +87,12 @@ li.text {
 
 a.menu:link {
   text-decoration: none;
-  color: black;
+  color: #163b4e;
 
 }
 
 a.menu:visited {
-  color: black;
+  color: #163b4e;
   border-color: #008cc1;
 }
 
